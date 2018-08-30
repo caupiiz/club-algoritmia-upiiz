@@ -1,8 +1,8 @@
-# Club-de-programacion-UPIIZ-IPN :+1:
-## ¿Que contiene el repositorio?
+# Club-de-programación-UPIIZ-IPN :+1:
+## ¿Qué contiene el repositorio?
 * Problemas resueltos
 * Algoritmos
-  * Busqueda
-  * Ordenamiento
-  * Etc
-* Ejercicios hechos en clase
+  * Búsqueda.
+  * Ordenamiento.
+  * Etc.
+* Ejercicios de las sesiones.
