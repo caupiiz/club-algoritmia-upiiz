@@ -1,5 +1,5 @@
-# Club-de-programacion-UPIIZ-IPN
-¿Que contiene el repositorio?
+# Club-de-programacion-UPIIZ-IPN :+1:
+## ¿Que contiene el repositorio?
 * Problemas resueltos
 * Algoritmos
   * Busqueda
