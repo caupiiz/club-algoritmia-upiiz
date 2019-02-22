@@ -1,9 +1,8 @@
 #include <bits/stdc++.h>
-using namespace std; 
-
+using namespace std;
+// https://omegaup.com/arena/problem/potencias-y-modulos#problems
 uint64_t power(uint64_t base, uint64_t exp,uint64_t mod){
-    if(exp == 0)
-     return 1;
+    if(exp == 0) return 1;
 
     uint64_t p=power(base, exp/2,mod);
     p=(p*p)% mod;
@@ -11,13 +10,9 @@ uint64_t power(uint64_t base, uint64_t exp,uint64_t mod){
 }
 
 int main(){
-	uint64_t n; 
+	uint64_t x,y,m;
+    cin>>x>>y>>m;
+	cout<<power(x,y,m)<<endl;
 
-		cin>>n; 
-	cout<<(power(2,n,1234567890)%1234567890-1-n%1234567890)%1234567890<<endl; 
-	
-	
-		
-	
-	return 0; 
+	return 0;
 }

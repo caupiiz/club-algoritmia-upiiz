@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
-
+// https://omegaup.com/arena/problem/Robot-recolector
 using namespace std;
-
+// Por dbetm
 int main() {
     int tramos;
     int unidadesTiempo, aux;
