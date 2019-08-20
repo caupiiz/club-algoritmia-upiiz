@@ -1,7 +1,12 @@
 // Agregar bibliotecas
 #include <iostream>
-
-// Agregamos
+/*
+    Autor: David Betancourt Montellano | username GitHub: @dbetm
+    Fecha: 20/08/2019.
+    Compilado con: g++ holaMundo.cpp -o 1
+    Ejecutado con: ./1
+*/
+// Agregamos el espacio de nombres de la biblioteca estándar
 using namespace std;
 
 // Función de entrada
