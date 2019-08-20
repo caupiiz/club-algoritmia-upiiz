@@ -9,7 +9,11 @@
  * Ejercicios de las sesiones.
  * Información general sobre el club para cada semestre.
   
-## Problemas semanales
-* [HackerRank: Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)
-* [HackerRank: Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem)
-* [HackerRank: Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)
+## Problemas semanales (básicos)
+* [HackerRank: Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) #intro #language
+* [HackerRank: Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) #intro #language
+* [HackerRank: Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) #intro #language
+
+## Problemas semanales (intermedio)
+ * [HackerRank: Find the Point](https://www.hackerrank.com/challenges/find-point/problem) #math
+ * [HackerRank: Best Divisor](https://www.hackerrank.com/challenges/best-divisor/problem) #math
