@@ -1,4 +1,4 @@
-# Club-de-programación-UPIIZ-IPN :+1:
+# Club de algoritmia UPIIZ-IPN :+1: :dragon:
 ## ¿Qué contiene el repositorio?
 * Problemas resueltos
  * Problemas propuestos a resolver cada semana.
