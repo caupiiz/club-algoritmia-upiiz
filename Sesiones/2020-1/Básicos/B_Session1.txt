@@ -1,0 +1,7 @@
+Fecha: Miércoles, 21 de agosto del 2019.
+
+- Acertijo
+- Video 100 Motivos para estudiar informática
+- Operaciones aritméticas.
+- Operadores lógicos.
+- Estructura de control: if, else if, else
