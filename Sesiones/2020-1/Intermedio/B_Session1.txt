@@ -1,0 +1,5 @@
+Fecha: Miércoles, 21 de agosto del 2019.
+
+Problemas de calentamiento:
+    - Problema de sumar los primeros n números naturales (Adiós vaquero - OmegaUp).
+    - Problema de recursividad pero usando memoria.
