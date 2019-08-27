@@ -10,9 +10,9 @@
  * Información general sobre el club para cada semestre.
   
 ## Problemas semanales (básicos)
-* [HackerRank: Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) #intro #language
-* [HackerRank: Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) #intro #language
-* [HackerRank: Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) #intro #language
+* [URI Online Judge: Area of a Circle](https://www.urionlinejudge.com.br/judge/en/problems/view/1002) #intro #language #math
+* [URI Online Judge: Simple Sum](https://www.urionlinejudge.com.br/judge/en/problems/view/1003) #intro #language #math
+
 
 ## Problemas semanales (intermedio)
  * [Codeforces: Young Physicist](https://codeforces.com/problemset/problem/69/A) #math
