@@ -15,6 +15,6 @@
 * [HackerRank: Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) #intro #language
 
 ## Problemas semanales (intermedio)
- * [Codeforces: Young Physicist](https://codeforces.com/problemset/problem/69/A)
- * [Codeforces: In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) 
- * [Codeforces: Way Too Long Words](https://codeforces.com/problemset/problem/71/A)
+ * [Codeforces: Young Physicist](https://codeforces.com/problemset/problem/69/A) #math
+ * [Codeforces: In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) #implementation	
+ * [Codeforces: Way Too Long Words](https://codeforces.com/problemset/problem/71/A) #strings
