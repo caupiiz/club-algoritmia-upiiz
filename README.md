@@ -22,9 +22,9 @@
  * Explorador: Tiene mínimo 1 problema resuelto.
  * Principiante: Tiene 5 problemas resueltos.
  * Cintas:
-  ** Blanca: Tiene 10 problemas resueltos.
-  ** Amarilla: Tiene 15 problemas resueltos.
-  ** Rojo: Tiene 15 problemas resueltos.
-  ** Azul: Tiene 50 problemas resueltos.
-  ** Negra: Tiene más de 100 problemas resueltos.
+     * Blanca: Tiene 10 problemas resueltos.
+     * Amarilla: Tiene 15 problemas resueltos.
+     * Rojo: Tiene 15 problemas resueltos.
+     * Azul: Tiene 50 problemas resueltos.
+     *Negra: Tiene más de 100 problemas resueltos.
  
