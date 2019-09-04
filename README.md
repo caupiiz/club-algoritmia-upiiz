@@ -12,7 +12,7 @@
 ## Problemas semanales (básicos)
 * [OmegaUp: ABC](https://omegaup.com/arena/problem/abc#problems) #implementation
 * [OmegaUp: Fracción mixta](https://omegaup.com/arena/problem/comi-Fraccion-mixta#problems) #intro #math
-* [OmegaUp: ExamBidi3](https://omegaup.com/arena/problem/ExamBidi3#problems) #languaje #loops
+* [OmegaUp: ExamBidi3](https://omegaup.com/arena/problem/ExamBidi3#problems) #language #loops
 
 ## Problemas semanales (intermedio)
  * [Codeforces: Young Physicist](https://codeforces.com/problemset/problem/69/A) #math
