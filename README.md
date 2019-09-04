@@ -10,8 +10,9 @@
  * Información general sobre el club para cada semestre.
   
 ## Problemas semanales (básicos)
-* [URI Online Judge: Area of a Circle](https://www.urionlinejudge.com.br/judge/en/problems/view/1002) #intro #language #math
-* [URI Online Judge: Simple Sum](https://www.urionlinejudge.com.br/judge/en/problems/view/1003) #intro #language #math
+* [OmegaUp: ABC](https://omegaup.com/arena/problem/abc#problems) #implementation
+* [OmegaUp: Fracción mixta](https://omegaup.com/arena/problem/comi-Fraccion-mixta#problems) #intro #math
+* [OmegaUp: ExamBidi3](https://omegaup.com/arena/problem/ExamBidi3#problems) #languaje #loops
 
 ## Problemas semanales (intermedio)
  * [Codeforces: Young Physicist](https://codeforces.com/problemset/problem/69/A) #math
