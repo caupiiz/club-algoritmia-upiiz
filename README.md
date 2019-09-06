@@ -15,9 +15,9 @@
 * [OmegaUp: ExamBidi3](https://omegaup.com/arena/problem/ExamBidi3#problems) #language #loops
 
 ## Problemas semanales (intermedio)
- * [Codeforces: Young Physicist](https://codeforces.com/problemset/problem/69/A) #math
- * [Codeforces: In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) #implementation	
- * [Codeforces: Way Too Long Words](https://codeforces.com/problemset/problem/71/A) #strings
+ * [Codeforces: Domino piling ](http://codeforces.com/problemset/problem/50/A) #greedy
+ * [Codeforces: Dragons](http://codeforces.com/problemset/problem/230/A) #greedy
+ * [Codeforces: Helpful Maths](http://codeforces.com/problemset/problem/339/A) #greedy
  
  ### Niveles básicos
  * Explorador: Tiene mínimo 1 problema resuelto.
