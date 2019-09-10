@@ -36,7 +36,7 @@ int main() {
             res[i][j] = matriz[j][i];
         }
     }
-    // Mostrar la matriz originals
+    // Mostrar la matriz original
     for(int i = 0; i < n; i++) {        // filas
         for (int j = 0; j < n; j++) {   // columnas
             cout << res[i][j] << " ";
