@@ -32,6 +32,5 @@ bool probarPrimalidad(int n) {
     5 / 2
     5 / 3
     */
-
     return bandera;
 }
