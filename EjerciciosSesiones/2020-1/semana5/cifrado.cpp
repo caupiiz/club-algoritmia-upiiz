@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-
+// Cifrado César
 using namespace std;
 // Prototipo de la función
 string encriptar(string cadena);
@@ -28,7 +28,7 @@ string encriptar(string cadena) {
     int longitud = cadena.size();
     for (int i = 0; i < longitud; i++) {
         int x = (int)cadena[i] - 97;
-        int e_n = (x - 3) % 26;
+        int e_n = (x + 3) % 26;
         e_n += 97;
         resultado += (char)e_n;
     }
@@ -41,8 +41,8 @@ string desencriptar(string cadena) {
     int longitud = cadena.size();
     for (int i = 0; i < longitud; i++) {
         int x = (int)cadena[i] - 97;
-        int e_n = (x - 3) % 26;
-        e_n = (e_n < 0) ? 24 - e_n : e_n;
+        // modúlo de un número negativo (a % b + b) % b
+        int e_n = ((x-3) % 26 + 26) % 26;
         e_n += 97;
         resultado += (char)e_n;
     }

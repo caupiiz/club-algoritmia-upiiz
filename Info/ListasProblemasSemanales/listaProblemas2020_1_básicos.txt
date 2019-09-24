@@ -1,6 +1,10 @@
-Semana 4:
+Semana 5:
 Actuales
 
+Semana 4:
+* [HackerRank: Find the point](https://www.hackerrank.com/challenges/find-point/problem) #math #geometry
+* [HackerRank: Staircase](https://www.hackerrank.com/challenges/staircase/problem) #loops
+* [HackerRank: Handshake](https://www.hackerrank.com/challenges/handshake/problem) #math
 
 Semana 3:
 * [OmegaUp: Buscar y contar](https://omegaup.com/arena/problem/Buscar-y-contar#problems) #arrays #loops #implementation
