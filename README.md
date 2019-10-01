@@ -10,7 +10,7 @@
  * Información general sobre el club para cada semestre.
   
 ## Problemas semanales (básicos) - Semana 6
-* [OmegaUp: Fórmula Recursiva Tres](https://omegaup.com/arena/problem/Formula-Recursiva-Uno#problems) #recursion
+* [OmegaUp: Fórmula Recursiva Tres](https://omegaup.com/arena/problem/Formula-Recursiva-Tres#problems) #recursion
 * [OmegaUp: Canicas](https://omegaup.com/arena/problem/Can#problems) #hashing #arrays
 * [OmegaUp: Desaparición calculada](https://omegaup.com/arena/problem/Desaparicion-Calculada#problems) #math #implementation
 
