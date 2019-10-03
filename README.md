@@ -9,14 +9,14 @@
  * Ejercicios de las sesiones.
  * Información general sobre el club para cada semestre.
   
-## Problemas semanales (básicos) - Semana 5
-* [OmegaUp: Cifrado Afín](https://omegaup.com/arena/problem/Cifrado-Afin#problems) #math #strings
-* [OmegaUp: Fórmula Recursiva Uno](https://omegaup.com/arena/problem/Formula-Recursiva-Uno#problems) #recursion
-* [OmegaUp: Bajando los caracteres](https://omegaup.com/arena/problem/Bajando-los-caracteres#problems) #strings
+## Problemas semanales (básicos) - Semana 6
+* [OmegaUp: Fórmula Recursiva Tres](https://omegaup.com/arena/problem/Formula-Recursiva-Tres#problems) #recursion
+* [OmegaUp: Canicas](https://omegaup.com/arena/problem/Can#problems) #hashing #arrays
+* [OmegaUp: Desaparición calculada](https://omegaup.com/arena/problem/Desaparicion-Calculada#problems) #math #implementation
 
-## Problemas semanales (intermedio)
- * [Codeforces: Domino piling ](http://codeforces.com/problemset/problem/50/A) #greedy
- * [Codeforces: Dragons](http://codeforces.com/problemset/problem/230/A) #greedy
- * [Codeforces: Helpful Maths](http://codeforces.com/problemset/problem/339/A) #greedy
+## Problemas semanales (intermedio) - Semana 6
+ * [OmegaUp: La familia de Budy](https://omegaup.com/arena/problem/La-familia-de-Buddy#problems) #hashing #implementation
+ * [OmegaUp: ¡Fabulosos números triángulares!](https://omegaup.com/arena/problem/Fabulosos-numeros-triangulares#problems) #math
+ * [OmegaUp: Encontrando anagramas](https://omegaup.com/arena/problem/Encontrando-Anagramas#problems) #strings
  
  
