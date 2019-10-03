@@ -1,5 +1,11 @@
-Semana 5:
+Semana 6:
 Actuales
+
+
+Semana 5:
+* [OmegaUp: Cifrado Afín](https://omegaup.com/arena/problem/Cifrado-Afin#problems) #math #strings
+* [OmegaUp: Fórmula Recursiva Uno](https://omegaup.com/arena/problem/Formula-Recursiva-Uno#problems) #recursion
+* [OmegaUp: Bajando los caracteres](https://omegaup.com/arena/problem/Bajando-los-caracteres#problems) #strings
 
 Semana 4:
 * [HackerRank: Find the point](https://www.hackerrank.com/challenges/find-point/problem) #math #geometry
