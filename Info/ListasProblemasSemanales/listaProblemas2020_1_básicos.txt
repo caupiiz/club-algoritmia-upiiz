@@ -1,6 +1,11 @@
-Semana 6:
+Semana 7:
 Actuales
 
+
+Semana 6:
+* [OmegaUp: Fórmula Recursiva Tres](https://omegaup.com/arena/problem/Formula-Recursiva-Tres#problems) #recursion
+* [OmegaUp: Canicas](https://omegaup.com/arena/problem/Can#problems) #hashing #arrays
+* [OmegaUp: Desaparición calculada](https://omegaup.com/arena/problem/Desaparicion-Calculada#problems) #math #implementation
 
 Semana 5:
 * [OmegaUp: Cifrado Afín](https://omegaup.com/arena/problem/Cifrado-Afin#problems) #math #strings

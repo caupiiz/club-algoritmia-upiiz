@@ -1,0 +1,29 @@
+Semana 7:
+Actuales
+
+
+Semana 6:
+* [OmegaUp: La familia de Budy](https://omegaup.com/arena/problem/La-familia-de-Buddy#problems) #hashing #implementation
+ * [OmegaUp: ¡Fabulosos números triángulares!](https://omegaup.com/arena/problem/Fabulosos-numeros-triangulares#problems) #math
+ * [OmegaUp: Encontrando anagramas](https://omegaup.com/arena/problem/Encontrando-Anagramas#problems) #strings
+
+
+Semana 5:
+...404...
+
+Semana 4:
+..404...
+
+Semana 3:
+...404...
+
+Semana 2:
+...404...
+
+Semana 1:
+...404...
+
+Semana 0:
+ * [Codeforces: Domino piling ](http://codeforces.com/problemset/problem/50/A) #greedy
+ * [Codeforces: Dragons](http://codeforces.com/problemset/problem/230/A) #greedy
+ * [Codeforces: Helpful Maths](http://codeforces.com/problemset/problem/339/A) #greedy
