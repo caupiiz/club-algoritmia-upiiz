@@ -9,14 +9,25 @@
  * Ejercicios de las sesiones.
  * Información general sobre el club para cada semestre.
   
-## Problemas semanales (básicos) - Semana 6
-* [OmegaUp: Fórmula Recursiva Tres](https://omegaup.com/arena/problem/Formula-Recursiva-Tres#problems) #recursion
-* [OmegaUp: Canicas](https://omegaup.com/arena/problem/Can#problems) #hashing #arrays
-* [OmegaUp: Desaparición calculada](https://omegaup.com/arena/problem/Desaparicion-Calculada#problems) #math #implementation
+## Problemas semanales (básicos) - Semana 7
+* [OmegaUp: Buenas series](https://omegaup.com/arena/problem/Buenas-Series#problems) #stack #dataStructures
+* [OmegaUp: Encuentra el 8](https://omegaup.com/arena/problem/Encuentra-el-8#problems) #linearSearch
+* [HackerRank: Vector-Erase](https://www.hackerrank.com/challenges/vector-erase/problem) #vector #dataStructures
 
-## Problemas semanales (intermedio) - Semana 6
- * [OmegaUp: La familia de Budy](https://omegaup.com/arena/problem/La-familia-de-Buddy#problems) #hashing #implementation
- * [OmegaUp: ¡Fabulosos números triángulares!](https://omegaup.com/arena/problem/Fabulosos-numeros-triangulares#problems) #math
- * [OmegaUp: Encontrando anagramas](https://omegaup.com/arena/problem/Encontrando-Anagramas#problems) #strings
+## Problemas semanales (intermedio) - Semana 7
+ * [OmegaUp: El triángulo](https://omegaup.com/arena/problem/triangulo#problems) #dp
+ * [OmegaUp: Los chocolates del agente nieves](https://omegaup.com/arena/problem/chocolates#problems) #dp
+ * [OmegaUp: Bacterias](https://omegaup.com/arena/problem/mirBacterias#problems) #dp
  
  
+### Niveles:
+* Explorador: Tiene al menos 1 problema resuelto.
+* Principiante: Tiene 5 problemas resueltos.
+* Cintas:
+    * Blanca: Tiene 10 problemas resueltos.
+    * Amarilla: Tiene 15 problemas resueltos.
+    * Rojo: Tiene 25 problemas resueltos.
+    * Azul: Tiene 50 problemas resueltos.
+    * Negra: Tiene más de 100 problemas resueltos.
+
+Nota: Los problemas de los niveles se refieren a los semanales y de los concursos virtuales organizados.
