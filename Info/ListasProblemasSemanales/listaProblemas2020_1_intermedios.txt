@@ -1,6 +1,10 @@
-Semana 7:
+Semana 8:
 Actuales
 
+Semana 7:
+* [OmegaUp: El triángulo](https://omegaup.com/arena/problem/triangulo#problems) #dp
+* [OmegaUp: Los chocolates del agente nieves](https://omegaup.com/arena/problem/chocolates#problems) #dp
+* [OmegaUp: Bacterias](https://omegaup.com/arena/problem/mirBacterias#problems) #dp
 
 Semana 6:
 * [OmegaUp: La familia de Budy](https://omegaup.com/arena/problem/La-familia-de-Buddy#problems) #hashing #implementation

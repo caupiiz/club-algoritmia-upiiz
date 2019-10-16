@@ -1,6 +1,10 @@
-Semana 7:
+Semana 8:
 Actuales
 
+Semana 7:
+* [OmegaUp: Buenas series](https://omegaup.com/arena/problem/Buenas-Series#problems) #stack #dataStructures
+* [OmegaUp: Encuentra el 8](https://omegaup.com/arena/problem/Encuentra-el-8#problems) #linearSearch
+* [HackerRank: Vector-Erase](https://www.hackerrank.com/challenges/vector-erase/problem) #vector #dataStructures
 
 Semana 6:
 * [OmegaUp: Fórmula Recursiva Tres](https://omegaup.com/arena/problem/Formula-Recursiva-Tres#problems) #recursion
@@ -34,5 +38,4 @@ Semana 1:
 Semana 0:
 * [HackerRank: Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) #intro #language
 * [HackerRank: Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) #intro #language
-* [HackerRank: Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) #intro #language 
-
+* [HackerRank: Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) #intro #language
