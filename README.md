@@ -9,15 +9,15 @@
  * Ejercicios de las sesiones.
  * Información general sobre el club para cada semestre.
   
-## Problemas semanales (básicos) - Semana 7
-* [OmegaUp: Buenas series](https://omegaup.com/arena/problem/Buenas-Series#problems) #stack #dataStructures
-* [OmegaUp: Encuentra el 8](https://omegaup.com/arena/problem/Encuentra-el-8#problems) #linearSearch
-* [HackerRank: Vector-Erase](https://www.hackerrank.com/challenges/vector-erase/problem) #vector #dataStructures
+## Problemas semanales (básicos) - Semana 8
+* [OmegaUp: Encontrando anagramas](https://omegaup.com/arena/problem/Encontrando-Anagramas#problems) #greedy #strings
+* [OmegaUp: Imprimir n](https://omegaup.com/arena/problem/Imprimir-N#problems) #implementation
+* [OmegaUp: Ordenando cajas en ASINUS MART](https://omegaup.com/arena/problem/Ordenando-cajas#problems) #implementation
 
-## Problemas semanales (intermedio) - Semana 7
- * [OmegaUp: El triángulo](https://omegaup.com/arena/problem/triangulo#problems) #dp
- * [OmegaUp: Los chocolates del agente nieves](https://omegaup.com/arena/problem/chocolates#problems) #dp
- * [OmegaUp: Bacterias](https://omegaup.com/arena/problem/mirBacterias#problems) #dp
+## Problemas semanales (intermedio) - Semana 8
+ * [OmegaUp: Boscosos números](https://omegaup.com/arena/problem/Boscosos-Numeros#problems) #implementation
+ * [OmegaUp: Factoriales extremos](https://omegaup.com/arena/problem/Factoriales-extremos#problems) #math
+ * [OmegaUp: CR File Downloading](https://omegaup.com/arena/problem/CR-File-downloading#problems) #dataStructures
  
  
 ### Niveles:
