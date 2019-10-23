@@ -9,15 +9,15 @@
  * Ejercicios de las sesiones.
  * Información general sobre el club para cada semestre.
   
-## Problemas semanales (básicos) - Semana 8
-* [OmegaUp: Encontrando anagramas](https://omegaup.com/arena/problem/Encontrando-Anagramas#problems) #greedy #strings
-* [OmegaUp: Imprimir n](https://omegaup.com/arena/problem/Imprimir-N#problems) #implementation
-* [OmegaUp: Ordenando cajas en ASINUS MART](https://omegaup.com/arena/problem/Ordenando-cajas#problems) #implementation
+## Problemas semanales (básicos) - Semana 9
+* [OmegaUp: MC Dinero](https://omegaup.com/arena/problem/MC-Dinero#problems) #implementation
+* [OmegaUp: División de factorial](https://omegaup.com/arena/problem/Division-de-factorial#problems) #math
+* [OmegaUp: Alegría Oriental](https://omegaup.com/arena/problem/Alegria-oriental#problems) #implementation
 
-## Problemas semanales (intermedio) - Semana 8
- * [OmegaUp: Boscosos números](https://omegaup.com/arena/problem/Boscosos-Numeros#problems) #implementation
- * [OmegaUp: Factoriales extremos](https://omegaup.com/arena/problem/Factoriales-extremos#problems) #math
- * [OmegaUp: CR File Downloading](https://omegaup.com/arena/problem/CR-File-downloading#problems) #dataStructures
+## Problemas semanales (intermedio) - Semana 9
+ * [OmegaUp: Xbox Live Points](https://omegaup.com/arena/problem/Xbox-Live-Points#problems) #dp
+ * [CodeForces: Letter](https://codeforces.com/contest/180/problem/C) #dp
+ * [HackerRank: Strange Grid Again](https://www.hackerrank.com/challenges/strange-grid/problem) #implementation #math
  
  
 ### Niveles:
