@@ -1,5 +1,10 @@
-Semana 8:
+Semana 9:
 Actuales
+
+Semana 8:
+* [OmegaUp: Encontrando anagramas](https://omegaup.com/arena/problem/Encontrando-Anagramas#problems) #greedy #strings
+* [OmegaUp: Imprimir n](https://omegaup.com/arena/problem/Imprimir-N#problems) #implementation
+* [OmegaUp: Ordenando cajas en ASINUS MART](https://omegaup.com/arena/problem/Ordenando-cajas#problems) #implementation
 
 Semana 7:
 * [OmegaUp: Buenas series](https://omegaup.com/arena/problem/Buenas-Series#problems) #stack #dataStructures

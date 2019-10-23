@@ -1,5 +1,10 @@
-Semana 8:
+Semana 9:
 Actuales
+
+Semana 8:
+ * [OmegaUp: Boscosos números](https://omegaup.com/arena/problem/Boscosos-Numeros#problems) #implementation
+ * [OmegaUp: Factoriales extremos](https://omegaup.com/arena/problem/Factoriales-extremos#problems) #math
+ * [OmegaUp: CR File Downloading](https://omegaup.com/arena/problem/CR-File-downloading#problems) #dataStructures
 
 Semana 7:
 * [OmegaUp: El triángulo](https://omegaup.com/arena/problem/triangulo#problems) #dp
