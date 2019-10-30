@@ -1,5 +1,10 @@
-Semana 9:
+Semana 10:
 Actuales
+
+Semana 9:
+* [OmegaUp: MC Dinero](https://omegaup.com/arena/problem/MC-Dinero#problems) #implementation
+* [OmegaUp: División de factorial](https://omegaup.com/arena/problem/Division-de-factorial#problems) #math
+* [OmegaUp: Alegría Oriental](https://omegaup.com/arena/problem/Alegria-oriental#problems) #implementation
 
 Semana 8:
 * [OmegaUp: Encontrando anagramas](https://omegaup.com/arena/problem/Encontrando-Anagramas#problems) #greedy #strings

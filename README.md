@@ -5,19 +5,20 @@
 * Algoritmos
   * Búsqueda.
   * Ordenamiento.
-  * Etc.
+  * Grafos.
+  * Cadenas.
  * Ejercicios de las sesiones.
  * Información general sobre el club para cada semestre.
   
-## Problemas semanales (básicos) - Semana 9
-* [OmegaUp: MC Dinero](https://omegaup.com/arena/problem/MC-Dinero#problems) #implementation
-* [OmegaUp: División de factorial](https://omegaup.com/arena/problem/Division-de-factorial#problems) #math
-* [OmegaUp: Alegría Oriental](https://omegaup.com/arena/problem/Alegria-oriental#problems) #implementation
+## Problemas semanales (básicos) - Semana 10
+* [OmegaUp: Abreviando palabras](https://omegaup.com/arena/problem/Abreviando-palabras#problems) #implementation #strings
+* [OmegaUp: A mezclar palabras](https://omegaup.com/arena/problem/A-Mezclar-Palabras#problems) #implementation #strings
+* [CodeForces: Domino piling](https://codeforces.com/contest/50/problem/A) #superEasy #math
 
-## Problemas semanales (intermedio) - Semana 9
- * [OmegaUp: Xbox Live Points](https://omegaup.com/arena/problem/Xbox-Live-Points#problems) #dp
- * [CodeForces: Letter](https://codeforces.com/contest/180/problem/C) #dp
- * [HackerRank: Strange Grid Again](https://www.hackerrank.com/challenges/strange-grid/problem) #implementation #math
+## Problemas semanales (intermedio) - Semana 10
+ * [HackerRank: Army Game](https://www.hackerrank.com/challenges/game-with-cells/problem) #math
+ * [HackerRank: Connecting Towns](https://www.hackerrank.com/challenges/connecting-towns/problem) #math
+ * [HackerRank: Restaurant](https://www.hackerrank.com/challenges/restaurant/problem) #math
  
  
 ### Niveles:

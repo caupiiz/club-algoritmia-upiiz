@@ -1,5 +1,10 @@
-Semana 9:
+Semana 10:
 Actuales
+
+Semana 9:
+ * [OmegaUp: Xbox Live Points](https://omegaup.com/arena/problem/Xbox-Live-Points#problems) #dp
+ * [CodeForces: Letter](https://codeforces.com/contest/180/problem/C) #dp
+ * [HackerRank: Strange Grid Again](https://www.hackerrank.com/challenges/strange-grid/problem) #implementation #math
 
 Semana 8:
  * [OmegaUp: Boscosos números](https://omegaup.com/arena/problem/Boscosos-Numeros#problems) #implementation
@@ -12,7 +17,7 @@ Semana 7:
 * [OmegaUp: Bacterias](https://omegaup.com/arena/problem/mirBacterias#problems) #dp
 
 Semana 6:
-* [OmegaUp: La familia de Budy](https://omegaup.com/arena/problem/La-familia-de-Buddy#problems) #hashing #implementation
+ * [OmegaUp: La familia de Budy](https://omegaup.com/arena/problem/La-familia-de-Buddy#problems) #hashing #implementation
  * [OmegaUp: ¡Fabulosos números triángulares!](https://omegaup.com/arena/problem/Fabulosos-numeros-triangulares#problems) #math
  * [OmegaUp: Encontrando anagramas](https://omegaup.com/arena/problem/Encontrando-Anagramas#problems) #strings
 
