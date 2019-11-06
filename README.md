@@ -13,7 +13,7 @@
 ## Problemas semanales (básicos) - Semana 11
 * [OmegaUp: Suma de la suma de la suma](https://omegaup.com/arena/problem/SSS#problems) #math
 * [OmegaUp: Creciente](https://omegaup.com/arena/problem/Creciente#problems) #implementation
-* [CodeForces: Los tacos del CECyT](https://omegaup.com/arena/problem/Los-Tacos-del-CECyT-ASINUS#problems) #math
+* [OmegaUp: Los tacos del CECyT](https://omegaup.com/arena/problem/Los-Tacos-del-CECyT-ASINUS#problems) #math
 
 ## Problemas semanales (intermedio) - Semana 11
  * [HackerRank: Army Game](https://www.hackerrank.com/challenges/game-with-cells/problem) #math
