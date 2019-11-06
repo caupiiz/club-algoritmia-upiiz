@@ -1,5 +1,10 @@
-Semana 10:
+Semana 11:
 Actuales
+
+Semana 10:
+* [OmegaUp: Abreviando palabras](https://omegaup.com/arena/problem/Abreviando-palabras#problems) #implementation #strings
+* [OmegaUp: A mezclar palabras](https://omegaup.com/arena/problem/A-Mezclar-Palabras#problems) #implementation #strings
+* [CodeForces: Domino piling](https://codeforces.com/contest/50/problem/A) #superEasy #math
 
 Semana 9:
 * [OmegaUp: MC Dinero](https://omegaup.com/arena/problem/MC-Dinero#problems) #implementation

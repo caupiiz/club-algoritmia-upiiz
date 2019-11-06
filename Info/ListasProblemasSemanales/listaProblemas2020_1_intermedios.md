@@ -1,5 +1,9 @@
+Semana 11: Igual que la semana 10
+
 Semana 10:
-Actuales
+ * [HackerRank: Army Game](https://www.hackerrank.com/challenges/game-with-cells/problem) #math
+ * [HackerRank: Connecting Towns](https://www.hackerrank.com/challenges/connecting-towns/problem) #math
+ * [HackerRank: Restaurant](https://www.hackerrank.com/challenges/restaurant/problem) #math
 
 Semana 9:
  * [OmegaUp: Xbox Live Points](https://omegaup.com/arena/problem/Xbox-Live-Points#problems) #dp

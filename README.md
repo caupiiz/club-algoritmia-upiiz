@@ -10,12 +10,12 @@
  * Ejercicios de las sesiones.
  * Información general sobre el club para cada semestre.
   
-## Problemas semanales (básicos) - Semana 10
-* [OmegaUp: Abreviando palabras](https://omegaup.com/arena/problem/Abreviando-palabras#problems) #implementation #strings
-* [OmegaUp: A mezclar palabras](https://omegaup.com/arena/problem/A-Mezclar-Palabras#problems) #implementation #strings
-* [CodeForces: Domino piling](https://codeforces.com/contest/50/problem/A) #superEasy #math
+## Problemas semanales (básicos) - Semana 11
+* [OmegaUp: Suma de la suma de la suma](https://omegaup.com/arena/problem/SSS#problems) #math
+* [OmegaUp: Creciente](https://omegaup.com/arena/problem/Creciente#problems) #implementation
+* [CodeForces: Los tacos del CECyT](https://omegaup.com/arena/problem/Los-Tacos-del-CECyT-ASINUS#problems) #math
 
-## Problemas semanales (intermedio) - Semana 10
+## Problemas semanales (intermedio) - Semana 11
  * [HackerRank: Army Game](https://www.hackerrank.com/challenges/game-with-cells/problem) #math
  * [HackerRank: Connecting Towns](https://www.hackerrank.com/challenges/connecting-towns/problem) #math
  * [HackerRank: Restaurant](https://www.hackerrank.com/challenges/restaurant/problem) #math
