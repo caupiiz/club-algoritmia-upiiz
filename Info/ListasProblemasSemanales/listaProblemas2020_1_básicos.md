@@ -1,5 +1,10 @@
-Semana 11:
+Semana 12:
 Actuales
+
+Semana 11:
+* [OmegaUp: Suma de la suma de la suma](https://omegaup.com/arena/problem/SSS#problems) #math
+* [OmegaUp: Creciente](https://omegaup.com/arena/problem/Creciente#problems) #implementation
+* [OmegaUp: Los tacos del CECyT](https://omegaup.com/arena/problem/Los-Tacos-del-CECyT-ASINUS#problems) #math
 
 Semana 10:
 * [OmegaUp: Abreviando palabras](https://omegaup.com/arena/problem/Abreviando-palabras#problems) #implementation #strings

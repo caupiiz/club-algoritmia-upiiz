@@ -10,12 +10,11 @@
  * Ejercicios de las sesiones.
  * Información general sobre el club para cada semestre.
   
-## Problemas semanales (básicos) - Semana 11
-* [OmegaUp: Suma de la suma de la suma](https://omegaup.com/arena/problem/SSS#problems) #math
-* [OmegaUp: Creciente](https://omegaup.com/arena/problem/Creciente#problems) #implementation
-* [CodeForces: Los tacos del CECyT](https://omegaup.com/arena/problem/Los-Tacos-del-CECyT-ASINUS#problems) #math
+## Problemas semanales (básicos) - Semana 12
+* [OmegaUp: Ultraprimo](https://omegaup.com/arena/problem/UltraPrimo#problems) #math
+* [OmegaUp: ¿Dónde quedó el primo?](https://omegaup.com/arena/problem/findprime#problems) #math
 
-## Problemas semanales (intermedio) - Semana 11
+## Problemas semanales (intermedio) - Semana 12
  * [HackerRank: Army Game](https://www.hackerrank.com/challenges/game-with-cells/problem) #math
  * [HackerRank: Connecting Towns](https://www.hackerrank.com/challenges/connecting-towns/problem) #math
  * [HackerRank: Restaurant](https://www.hackerrank.com/challenges/restaurant/problem) #math
