@@ -39,7 +39,7 @@ void imprimirNumerosPrimos() {
 }
 
 void generarCriba() {
-    for (int i = 2; i < sqrt(tam); i++) {
+    for (int i = 2; i <= sqrt(tam); i++) {
         if(A[i] == 0) {
             for (int j = i; j <= (tam / i); j++) {
                 A[i*j] = 1;
