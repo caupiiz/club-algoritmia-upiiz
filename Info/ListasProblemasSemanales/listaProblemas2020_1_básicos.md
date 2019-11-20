@@ -1,5 +1,9 @@
-Semana 12:
+Semana 13 - última:
 Actuales
+
+Semana 12:
+* [OmegaUp: Ultraprimo](https://omegaup.com/arena/problem/UltraPrimo#problems) #math
+* [OmegaUp: ¿Dónde quedó el primo?](https://omegaup.com/arena/problem/findprime#problems) #math
 
 Semana 11:
 * [OmegaUp: Suma de la suma de la suma](https://omegaup.com/arena/problem/SSS#problems) #math
