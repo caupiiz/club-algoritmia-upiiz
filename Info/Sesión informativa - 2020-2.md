@@ -1,4 +1,4 @@
-# Semestre 2020-2:
+# Semestre 2020-2.
 
 ### Horarios:
 + Lunes, 14:30 - 16:00 h.
@@ -7,7 +7,7 @@
 
 Nota: La sesión del martes y del miércoles será la misma.
 
-### Tópicos que se abordarán durantes las sesiones del semestre:
+### Tópicos que se abordarán durante las sesiones del semestre:
 
 + Manejo de bits.
 + Álgebra.
