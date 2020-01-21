@@ -1,7 +1,7 @@
 # Club de algoritmia UPIIZ-IPN :+1: :dragon:
 ## ¿Qué contiene el repositorio?
 * Problemas resueltos
- * Problemas propuestos a resolver cada semana.
+ * Problemas a resolver al semestre actual.
 * Algoritmos
   * Búsqueda.
   * Ordenamiento.
@@ -10,16 +10,7 @@
  * Ejercicios de las sesiones.
  * Información general sobre el club para cada semestre.
 
-## Problemas semanales (básicos) - Semana 13 (final)
-* [OmegaUp: Los equipos de fútbol](https://omegaup.com/arena/problem/Los-Equipos-de-Futbol-ASINUS#problems) #math
-
-## Problemas semanales (intermedio) - Semana 13 (final)
- * [HackerRank: Army Game](https://www.hackerrank.com/challenges/game-with-cells/problem) #math
- * [HackerRank: Connecting Towns](https://www.hackerrank.com/challenges/connecting-towns/problem) #math
- * [HackerRank: Restaurant](https://www.hackerrank.com/challenges/restaurant/problem) #math
-
-
-### Niveles:
+### Niveles según la cant. de problemas resueltos:
 * Explorador: Tiene al menos 1 problema resuelto.
 * Principiante: Tiene 5 problemas resueltos.
 * Cintas:
