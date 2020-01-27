@@ -1,6 +1,6 @@
 # Club de algoritmia UPIIZ-IPN :+1: :dragon:
 ## ¿Qué contiene el repositorio?
-* Problemas resueltos
+* Problemas
  * Problemas a resolver al semestre actual.
 * Algoritmos
   * Búsqueda.
