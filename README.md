@@ -7,6 +7,10 @@
   * Ordenamiento.
   * Grafos.
   * Cadenas.
+  * Geometría.
+  * Programación dinámica.
+  * Máscaras de bits.
+  * Teoría de números.
  * Ejercicios de las sesiones.
  * Información general sobre el club para cada semestre.
 
