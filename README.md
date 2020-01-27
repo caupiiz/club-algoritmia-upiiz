@@ -10,6 +10,9 @@
  * Ejercicios de las sesiones.
  * Información general sobre el club para cada semestre.
 
+[Resumen sesión informátiva 2020-2](https://github.com/Wolfteinter/Club-de-algoritmia-UPIIZ-IPN/blob/master/Info/Sesi%C3%B3n%20informativa%20-%202020-2.md)
+[Lista de problemas para el semestre 2020-2](https://github.com/Wolfteinter/Club-de-algoritmia-UPIIZ-IPN/blob/master/Info/ListasProblemas/listaProblemas_2020_2.md)
+
 ### Niveles según la cant. de problemas resueltos:
 * Explorador: Tiene al menos 1 problema resuelto.
 * Principiante: Tiene 5 problemas resueltos.
