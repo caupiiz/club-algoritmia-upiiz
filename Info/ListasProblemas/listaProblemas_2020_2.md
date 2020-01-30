@@ -5,7 +5,7 @@
 
 + Combinado.
 + Manejo de bits.
-  - a) [Raicing bacteria](https://codeforces.com/problemset/problem/579/A)
+  - a) [Raising bacteria](https://codeforces.com/problemset/problem/579/A)
   - b) [Petr and a Combination Lock](https://codeforces.com/problemset/problem/1097/B)
   - c) [El código Gray](https://omegaup.com/arena/problem/gray#problems)
   - d) [Números vacunos](https://omegaup.com/arena/problem/cnums#problems)
