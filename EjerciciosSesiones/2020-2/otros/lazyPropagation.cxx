@@ -12,7 +12,7 @@ int main() {
     cout << "Escribe n: ";
     cin >> n;
     // En la segunda columna de la matriz se calcularán los "cambios".
-    // En la primer columa de la matriz se almacenan los valores.
+    // En la primer columna de la matriz se almacenan los valores.
     int arr[n+1][2];
     cout << "Escribe los valores separados por un espacio: " << endl;
     for (int i = 0; i < n; i++) {
@@ -39,7 +39,7 @@ int main() {
         // mostramos el valor
         cout << (arr[i][0] + delta) << " ";
     }
-    cout << endl;
+   // cout << endl;
 
     return 0;
 }
