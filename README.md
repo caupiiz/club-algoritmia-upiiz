@@ -18,8 +18,6 @@
 
 [Resumen sesión informátiva 2020-2](https://github.com/caupiiz/club-algoritmia-upiiz/blob/master/Info/Sesi%C3%B3n%20informativa%20-%202020-2.md)
 
-[Lista de problemas para el semestre 2021-1]Por definir
-
 [Página del club](https://caupiiz.github.io/2701/)
 
 [Página de Facebook](https://www.facebook.com/algoritmiaUPIIZ/)
