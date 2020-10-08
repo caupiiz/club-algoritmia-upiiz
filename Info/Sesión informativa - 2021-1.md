@@ -7,6 +7,7 @@
 
 ### Tópicos que se abordarán durante las sesiones del semestre:
 
+
 + Manejo de bits.
 + Álgebra.
 + Estrategias para programación competitiva.
