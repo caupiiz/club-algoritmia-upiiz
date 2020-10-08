@@ -1,4 +1,4 @@
-# Lista de problemas para el semestre 2020-2
+# Lista de problemas para el semestre 2021-1
 ### Recuerda que no es malo pedir ayuda :)
 
 + Combinado.
