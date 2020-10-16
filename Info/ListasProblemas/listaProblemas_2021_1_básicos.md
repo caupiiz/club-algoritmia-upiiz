@@ -1,4 +1,4 @@
-# Lista de problemas para el semestre 2021-1 básicos :+1:
+# Lista de problemas para el semestre 2021-1 básicos :computer:
 ### Recuerda que no es malo pedir ayuda :)
 
 
