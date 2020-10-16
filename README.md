@@ -18,6 +18,8 @@
 
 [Resumen sesión informativa 2021-1](https://github.com/caupiiz/club-algoritmia-upiiz/blob/master/Info/Sesi%C3%B3n%20informativa%20-%202020-2.md)
 
+[Recursos Sesiones 2021-1](https://drive.google.com/drive/folders/1F-cbYFk8Kd9ipWCdE2hm-gGS__pMmjds?usp=sharing)
+
 [Lista de problemas semestre 2021-1-básicos](https://github.com/caupiiz/club-algoritmia-upiiz/blob/master/Info/ListasProblemas/listaProblemas_2021_1_básicos.md)
 
 [Lista de problemas semestre 2021-1-intermedios](https://github.com/caupiiz/club-algoritmia-upiiz/blob/master/Info/ListasProblemas/listaProblemas_2021_1_intermedios.md)
