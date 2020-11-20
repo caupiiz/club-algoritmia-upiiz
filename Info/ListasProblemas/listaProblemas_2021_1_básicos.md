@@ -1,16 +1,24 @@
 # Lista de problemas para el semestre 2021-1 básicos :computer:
 ### Recuerda que no es malo pedir ayuda :)
 
++ Semana 5:
+  - a) [HackerRank: ](https://www.hackerrank.com/challenges/staircase/problem)
+  - b) [OmegaUp: Barbulla Matemática](https://omegaup.com/arena/problem/Barbulla-Matematica/#problems/Barbulla-Matematica)
+  - c) [CodeForces](https://codeforces.com/problemset/problem/546/A)
+  
 + Semana 4:
   - a) [OmegaUp: Don "Tripas" ASINUS](https://omegaup.com/arena/problem/Don-Tripas-ASINUS/#problems)
   - b) [OmegaUp: Carrera de Larga Distancia](https://omegaup.com/arena/problem/Carrera-de-Larga-Distancia/#problems)
   - c) [OmegaUp: Las Novias de Abel](https://omegaup.com/arena/problem/Las-Novias-de-Abel/#problems)
+  
 + Semana 3:
   - a) [OmegaUp: Llamadas telefónicas](https://omegaup.com/arena/problem/Llamadas-telefonicas/#problems)
   - b) [OmegaUp: occ12nssf22](https://omegaup.com/arena/problem/occ12nssf22/#problems)
   - c) [OmegaUp: Año Bisiesto](https://omegaup.com/arena/problem/Ano-Bisiesto/#problems)
+  
 + Semana 2: 
       ...404...
+      
 + Semana 1:
   - a) [OmegaUp: Calificaciones](https://omegaup.com/arena/problem/Calificaciones-cbtis/#problems)
   - b) [OmegaUp: 2018_1_CONDICIONES3](https://omegaup.com/arena/problem/2018_1_CONDICIONES3/#problems)
