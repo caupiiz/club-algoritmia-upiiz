@@ -2,9 +2,9 @@
 ### Recuerda que no es malo pedir ayuda :)
 
 + Semana 5:
-  - a) [HackerRank: ](https://www.hackerrank.com/challenges/staircase/problem)
+  - a) [HackerRank: Staircase](https://www.hackerrank.com/challenges/staircase/problem)
   - b) [OmegaUp: Barbulla Matemática](https://omegaup.com/arena/problem/Barbulla-Matematica/#problems/Barbulla-Matematica)
-  - c) [CodeForces](https://codeforces.com/problemset/problem/546/A)
+  - c) [CodeForces: Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)
   
 + Semana 4:
   - a) [OmegaUp: Don "Tripas" ASINUS](https://omegaup.com/arena/problem/Don-Tripas-ASINUS/#problems)
