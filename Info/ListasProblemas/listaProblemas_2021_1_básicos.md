@@ -1,6 +1,12 @@
 # Lista de problemas para el semestre 2021-1 básicos :computer:
 ### Recuerda que no es malo pedir ayuda :)
 
++ Semana 6:
+  - a) [OmegaUp: Cadenas Especiales](https://omegaup.com/arena/problem/Cadenas-especiales/#problems)
+  - b) [CodeForces: Way Too Long Words](https://codeforces.com/problemset/problem/71/A)
+  - c) [CodeForces: Translation](https://codeforces.com/problemset/problem/41/A)
+  - d) [OmegaUp: Matriz Espiral](https://omegaup.com/arena/problem/Matriz-espiral/#problems)
+
 + Semana 5:
   - a) [HackerRank: Staircase](https://www.hackerrank.com/challenges/staircase/problem)
   - b) [OmegaUp: Barbulla Matemática](https://omegaup.com/arena/problem/Barbulla-Matematica/#problems/Barbulla-Matematica)
