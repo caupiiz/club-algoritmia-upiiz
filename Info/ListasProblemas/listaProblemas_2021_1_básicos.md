@@ -3,7 +3,7 @@
 
 + Semana 7:
   - a) [OmegaUp: Mario vs. el mundo](https://omegaup.com/arena/problem/Mario-vs-el-mundo/#problems)
-  - b) [OmegaUp](https://omegaup.com/arena/problem/Cruci/#problems)
+  - b) [OmegaUp: Crucigrama](https://omegaup.com/arena/problem/Cruci/#problems)
   - c) [OmegaUp: Funciones matemáticas](https://omegaup.com/arena/problem/COMI-Funciones-Matematicas/#problems)
     [<math.h>](https://www.cplusplus.com/reference/cmath/)
     [setprecision](https://www.cplusplus.com/reference/iomanip/setprecision/)
