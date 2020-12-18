@@ -1,12 +1,17 @@
 # Lista de problemas para el semestre 2021-1 básicos :computer:
 ### Recuerda que no es malo pedir ayuda :)
 
++ Semana 8:
+  - a) [OmegaUp: Arreglo de primos](https://omegaup.com/arena/problem/Arreglo-de-primos/#problems)
+  - b) [OmegaUp: Saltando por el arreglo](https://omegaup.com/arena/problem/Saltando-por-el-arreglo/#problems)
+  - c) [OmegaUp: Adivina el número](https://omegaup.com/arena/problem/COMI-Adivina-el-numero/#problems)
+
 + Semana 7:
   - a) [OmegaUp: Mario vs. el mundo](https://omegaup.com/arena/problem/Mario-vs-el-mundo/#problems)
   - b) [OmegaUp: Crucigrama](https://omegaup.com/arena/problem/Cruci/#problems)
   - c) [OmegaUp: Funciones matemáticas](https://omegaup.com/arena/problem/COMI-Funciones-Matematicas/#problems)
-    [<math.h>](https://www.cplusplus.com/reference/cmath/)
-    [setprecision](https://www.cplusplus.com/reference/iomanip/setprecision/)
+  - [<math.h>](https://www.cplusplus.com/reference/cmath/)
+  - [setprecision](https://www.cplusplus.com/reference/iomanip/setprecision/)
 
 + Semana 6:
   - a) [OmegaUp: Cadenas Especiales](https://omegaup.com/arena/problem/Cadenas-especiales/#problems)
