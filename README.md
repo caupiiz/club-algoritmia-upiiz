@@ -18,9 +18,7 @@
 
 [Recursos Sesiones 2021-2](https://drive.google.com/drive/u/2/folders/1E3Lb3bMn9WqgeeUd_D1n1UW_4Y8Z0GpE)
 
-[Lista de problemas semestre 2021-1-básicos](https://github.com/caupiiz/club-algoritmia-upiiz/blob/master/Info/ListasProblemas/listaProblemas_2021_1_básicos.md)
-
-[Lista de problemas semestre 2021-1-intermedios](https://github.com/caupiiz/club-algoritmia-upiiz/blob/master/Info/ListasProblemas/listaProblemas_2021_1_intermedios.md)
+[Lista de problemas semestre 2021-2-Nivel1](https://github.com/caupiiz/club-algoritmia-upiiz/blob/master/Info/ListasProblemas/listaProblemas_2021_2_Nivel1.md)
 
 [Página del club](https://caupiiz.github.io/2701/)
 
