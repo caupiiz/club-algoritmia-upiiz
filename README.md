@@ -20,6 +20,8 @@
 
 [Lista de problemas semestre 2022-1_Nivel1](https://github.com/caupiiz/club-algoritmia-upiiz/blob/master/Info/ListasProblemas/listaProblemas2022_1_Nivel_1.md)
 
+[Ejercicios sesiones 2022-1 Nivel 1](https://github.com/caupiiz/club-algoritmia-upiiz/tree/master/EjerciciosSesiones/2022-1)
+
 [Página del club](https://caupiiz.github.io/2701/)
 
 [Página de Facebook](https://www.facebook.com/algoritmiaUPIIZ/)
