@@ -16,7 +16,7 @@
 
 ### Enlaces de interés
 
-[Recursos Sesiones 2021-2](https://drive.google.com/drive/u/2/folders/1E3Lb3bMn9WqgeeUd_D1n1UW_4Y8Z0GpE)
+[Recursos Sesiones 2022-2](https://drive.google.com/drive/folders/1bGHhmNVnfYOxvcCiNgGgBH4SGj8mdvIs?usp=sharing)
 
 [Lista de problemas semestre 2021-2_Nivel1](https://github.com/caupiiz/club-algoritmia-upiiz/blob/master/Info/ListasProblemas/listaProblemas_2021_2_Nivel1.md)
 
