@@ -18,7 +18,7 @@
 
 [Recursos Sesiones 2022-2](https://drive.google.com/drive/folders/1bGHhmNVnfYOxvcCiNgGgBH4SGj8mdvIs?usp=sharing)
 
-[Lista de problemas semestre 2021-2_Nivel1](https://github.com/caupiiz/club-algoritmia-upiiz/blob/master/Info/ListasProblemas/listaProblemas_2021_2_Nivel1.md)
+[Lista de problemas semestre 2022-1_Nivel1](https://github.com/caupiiz/club-algoritmia-upiiz/blob/master/Info/ListasProblemas/listaProblemas2022_1_Nivel_1.md)
 
 [Página del club](https://caupiiz.github.io/2701/)
 
